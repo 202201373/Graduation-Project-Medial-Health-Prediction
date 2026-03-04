@@ -1,4 +1,4 @@
-# VitalCare - Medical Mobile Application
+# Graduation-Project-Medial-Health-Prediction - VitalCare
 
 A comprehensive medical mobile application built with Django REST Framework and React Native.
 
